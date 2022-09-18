@@ -48,7 +48,7 @@ int main(void)
 
         glClearColor(.0f, 0.0f, 0.0f, 0.1f);
         glClear(GL_COLOR_BUFFER_BIT);
-        double rad = 1.0;
+        double rad = 1.0; 
         double x[360], y[360];
 
         glBegin(GL_LINE_STRIP);
